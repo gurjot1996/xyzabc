@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ggg" language="en" table="x_248783_xyz_ggg">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ggg</label>
+            <language>en</language>
+            <name>x_248783_xyz_ggg</name>
+            <plural>gggs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-31 11:08:43</sys_created_on>
+            <sys_id>2f0da6f0db353300f747e9c94896198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ggg</sys_name>
+            <sys_package display_value="xyz" source="x_248783_xyz">ff596a70db713300d16f273748961902</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="xyz">ff596a70db713300d16f273748961902</sys_scope>
+            <sys_update_name>sys_documentation_x_248783_xyz_ggg__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-31 11:08:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

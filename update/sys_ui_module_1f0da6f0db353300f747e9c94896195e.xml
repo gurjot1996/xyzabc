@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="xyz">5c992e70db713300d16f273748961906</application>
+        <filter/>
+        <name>gggs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_248783_xyz.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-31 11:08:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f0da6f0db353300f747e9c94896195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gggs</sys_name>
+        <sys_package display_value="xyz" source="x_248783_xyz">ff596a70db713300d16f273748961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="xyz">ff596a70db713300d16f273748961902</sys_scope>
+        <sys_update_name>sys_ui_module_1f0da6f0db353300f747e9c94896195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-31 11:08:42</sys_updated_on>
+        <table>x_248783_xyz_ggg</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
