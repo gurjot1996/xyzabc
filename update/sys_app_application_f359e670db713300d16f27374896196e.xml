@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>xyz</name>
+        <order/>
+        <roles>x_248783_xyz.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-31 10:52:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f359e670db713300d16f27374896196e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>xyz</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="xyz" source="x_248783_xyz">ff596a70db713300d16f273748961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="xyz">ff596a70db713300d16f273748961902</sys_scope>
+        <sys_update_name>sys_app_application_f359e670db713300d16f27374896196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-31 10:52:38</sys_updated_on>
+        <title>xyz</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
